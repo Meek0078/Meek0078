@@ -18,8 +18,8 @@
 ### 🛠️ Tech Stack
 
 ```yaml
-💻 Languages:     JavaScript, php, Python, Rust
-🌐 Frameworks:    Symfony, Vue.js
-🛢️ Databases:     PostgreSQL, MySQL, PhpMyAdmin
+💻 Languages:      JavaScript, php, Python, Rust
+🌐 Frameworks:     Symfony, Vue.js
+🛢️ Databases:      PostgreSQL, MySQL, PhpMyAdmin
 ⚙️ Tools & DevOps: Git, Docker
-🎨 Design:        Css, Bootstrap, Scss
+🎨 Design:         Css, Bootstrap, Scss
