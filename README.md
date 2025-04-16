@@ -23,7 +23,3 @@
 🛢️ Databases:     PostgreSQL, MySQL, PhpMyAdmin
 ⚙️ Tools & DevOps: Git, Docker
 🎨 Design:        Css, Bootstrap, Scss
-<!---
-Meek0078/Meek0078 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
